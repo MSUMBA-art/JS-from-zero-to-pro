@@ -1,5 +1,9 @@
+button {
+  background-color: red;
+  color: white;
+}
 
-    button {
-      background-color: red;  
-      color: white;
-    }
+h1 {
+  color: rgb(49, 9, 248);
+  text-decoration: underline;
+}
